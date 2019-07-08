@@ -1,0 +1,14 @@
+.NutLogo {
+    width: 60px;
+    height: 60px;
+    margin: 5px 25px 5px; 
+}
+
+.navbar {
+    background-color: rgb(253, 254, 245);
+}
+
+.navTitle {
+    align-self: flex-end;
+    margin-left: 10em;
+} 
